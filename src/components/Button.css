@@ -1,0 +1,50 @@
+button {
+	background-color: #282f3b;
+	border: none;
+	border-top: 1px solid #dee0e6;
+	color: #dee0e6;
+	font-size: 1em;
+	height: 4em;
+	width: 4em;
+	font-family: "Nunito", sans-serif;
+}
+
+.eight {
+	border-left: 1px solid #dee0e6;
+	border-right: 1px solid #dee0e6;
+}
+
+.nine {
+	border-right: 1px solid #dee0e6;
+}
+
+.five {
+	border-left: 1px solid #dee0e6;
+	border-right: 1px solid #dee0e6;
+}
+
+.six {
+	border-right: 1px solid #dee0e6;
+}
+
+.two {
+	border-left: 1px solid #dee0e6;
+	border-right: 1px solid #dee0e6;
+}
+
+.three {
+	border-right: 1px solid #dee0e6;
+}
+
+.equals {
+	background-color: #9dbc7b;
+}
+
+.decimal {
+	border-left: 1px solid #dee0e6;
+	border-right: 1px solid #dee0e6;
+}
+
+.divide {
+	border-right: 1px solid #dee0e6;
+}

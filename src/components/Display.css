@@ -1,0 +1,22 @@
+.display {
+	background-color: #282f3b;
+	height: 6em;
+	position: relative;
+	font-family: "Nunito", sans-serif;
+}
+
+p {
+	color: #dee0e6;
+	font-size: 3em;
+}
+
+.clear {
+	background-color: orange;
+	border-radius: 50px;
+	height: 2em;
+	width: 2em;
+	position: absolute;
+	right: 10px;
+	bottom: 5px;
+	border: none;
+}

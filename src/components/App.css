@@ -1,0 +1,28 @@
+body {
+	background-color: #ebecf0;
+}
+
+.app {
+	position: relative;
+}
+
+.calculator {
+	width: 256px;
+	border-radius: 20px;
+	overflow: hidden;
+	top: 100px;
+	margin: 0px auto;
+	position: relative;
+	background-color: #282f3b;
+}
+
+.info {
+	color: #dee0e6;
+	font-size: 1em;
+	height: 2em;
+	width: 2em;
+	position: absolute;
+	right: 10px;
+	top: 20px;
+	border: none;
+}
